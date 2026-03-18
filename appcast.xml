@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Transcrybe</title>
+        <link>https://clindsay3.github.io/TranscrybeReleases/</link>
+        <description>Non-App-Store updates for Transcrybe.</description>
+        <language>en</language>
+    </channel>
+</rss>
