@@ -11,8 +11,8 @@
             <sparkle:version>434</sparkle:version>
             <sparkle:shortVersionString>2.10.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe%20v2.10.1-upload-20260422052337.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.1/Transcrybe.v2.10.1-upload-20260422052337.zip" length="609569031" type="application/octet-stream" sparkle:edSignature="Q+EvJ12wZJZn6c9dFw39XcFyFvk7+uikFxSLJQ27PL19nEfdoRTpIh2wS0U7cGQ6139erPzu3TLoMgNGj2/JDw=="/>
+            <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v2.10.1.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.1/Transcrybe.v2.10.1.zip" length="609568926" type="application/octet-stream" sparkle:edSignature="BBmDMWcB3n0JQZCK4TJ4aJ0l9htPGf4S9o3tZIicR6F5IBRD+a//1tMAqub7/tNbggNrlob+yQcv6sE9p5B4Bg=="/>
         </item>
     </channel>
 </rss>
