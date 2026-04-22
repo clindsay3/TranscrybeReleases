@@ -11,7 +11,7 @@
             <sparkle:version>404</sparkle:version>
             <sparkle:shortVersionString>2.10.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/clindsay3/LiveTranslation/releases/download/Transcrybe%20v2.10.1-upload-20260422032514.zip" length="609569140" type="application/octet-stream" sparkle:edSignature="pXX0QoCkfUQxq9NIvhJWZB+vr3+zehfF39zIB3CKKencxo3HSPLCXhk35gsfT8q8kEpatywzt27RjGz5XVB1AA=="/>
+            <enclosure url="https://github.com/clindsay3/LiveTranslation/releases/download/Transcrybe%20v2.10.1-upload-20260422034125.zip" length="609569123" type="application/octet-stream" sparkle:edSignature="zj3DtX3egO8aNTbWAUeVT0HbfMiJVSdrsKginvFGliZ7Jp6awvX+fU/matmCl9N4sHWVmiHvuCQorEgV2qodAw=="/>
         </item>
     </channel>
 </rss>
