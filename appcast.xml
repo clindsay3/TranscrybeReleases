@@ -11,16 +11,8 @@
             <sparkle:version>434</sparkle:version>
             <sparkle:shortVersionString>2.10.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://clindsay3.github.io/Transcrybe%20v2.10.1-upload-20260422052337.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/clindsay3/LiveTranslation/releases/download/non-app-store-2.10.1/Transcrybe%20v2.10.1-upload-20260422052337.zip" length="609569031" type="application/octet-stream" sparkle:edSignature="Q+EvJ12wZJZn6c9dFw39XcFyFvk7+uikFxSLJQ27PL19nEfdoRTpIh2wS0U7cGQ6139erPzu3TLoMgNGj2/JDw=="/>
-        </item>
-        <item>
-            <title>2.10.1</title>
-            <pubDate>Wed, 22 Apr 2026 11:38:51 +0900</pubDate>
-            <sparkle:version>404</sparkle:version>
-            <sparkle:shortVersionString>2.10.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/clindsay3/LiveTranslation/releases/download/Transcrybe%20v2.10.1-upload-20260422035931.zip" length="609569158" type="application/octet-stream" sparkle:edSignature="3qxg2g/Q0j/52bOUrwH7BCY19ONyb+AcUvtdZA2vG0V/Q6KI3IleYOyfIu32IXh/bYcpLh1Z9BfOtQh/ZGabAQ=="/>
+            <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe%20v2.10.1-upload-20260422052337.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.1/Transcrybe.v2.10.1-upload-20260422052337.zip" length="609569031" type="application/octet-stream" sparkle:edSignature="Q+EvJ12wZJZn6c9dFw39XcFyFvk7+uikFxSLJQ27PL19nEfdoRTpIh2wS0U7cGQ6139erPzu3TLoMgNGj2/JDw=="/>
         </item>
     </channel>
 </rss>
