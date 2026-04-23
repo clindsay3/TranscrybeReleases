@@ -23,5 +23,14 @@
             <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v2.10.1.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.1/Transcrybe.v2.10.1.zip" length="609568926" type="application/octet-stream" sparkle:edSignature="BBmDMWcB3n0JQZCK4TJ4aJ0l9htPGf4S9o3tZIicR6F5IBRD+a//1tMAqub7/tNbggNrlob+yQcv6sE9p5B4Bg=="/>
         </item>
+        <item>
+            <title>2.10.3</title>
+            <pubDate>Thu, 23 Apr 2026 12:46:27 +0900</pubDate>
+            <sparkle:version>413</sparkle:version>
+            <sparkle:shortVersionString>2.10.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v2.10.3.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.3/Transcrybe.v2.10.3.zip" length="48716460" type="application/octet-stream" sparkle:edSignature="uqNHVhmH1bXwNuSpEzkN2nCp6Wafrs441mT1jZpEOePQc2OyqPZkf3gDQWGCQ0Fck8gUJ9ZAk/ODhJBOdgL9Dw=="/>
+        </item>
     </channel>
 </rss>
