@@ -7,12 +7,12 @@
         <language>en</language>
         <item>
             <title>2.10.5</title>
-            <pubDate>Fri, 24 Apr 2026 12:03:17 +0900</pubDate>
-            <sparkle:version>455</sparkle:version>
+            <pubDate>Fri, 24 Apr 2026 14:24:43 +0900</pubDate>
+            <sparkle:version>456</sparkle:version>
             <sparkle:shortVersionString>2.10.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v2.10.5.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.5/Transcrybe.v2.10.5.zip" length="609593736" type="application/octet-stream" sparkle:edSignature="gs+mNYZ6ujTdAP6fiKL0z1HEUhI2yu2NHLTuEbRkwQmDpr9YLOsFnA5WJP9AhUX2m5AeVBHsd7Z/2qzVAioSBQ=="/>
+            <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.5/Transcrybe.v2.10.5.zip" length="609592921" type="application/octet-stream" sparkle:edSignature="1Toyn61Xb3RYzhtLdf1l8sfqBz20FMmJ40FKghPdULftymKpVt8bHy2g5MjHuNW8zyBarGNexwte5caTHti2DQ=="/>
         </item>
         <item>
             <title>2.10.4</title>
