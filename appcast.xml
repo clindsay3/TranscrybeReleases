@@ -6,6 +6,15 @@
         <description>Non-App-Store updates for Transcrybe.</description>
         <language>en</language>
         <item>
+            <title>2.10.11</title>
+            <pubDate>Tue, 26 May 2026 14:31:36 +0900</pubDate>
+            <sparkle:version>467</sparkle:version>
+            <sparkle:shortVersionString>2.10.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v2.10.11.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.11/Transcrybe.v2.10.11.zip" length="609609021" type="application/octet-stream" sparkle:edSignature="yG0TaJg1h3XUplgUXtqYu2dGacpi1Nbhz72ADDGzFht16GqhzhDC1AHM8lD8LH6EKtIxcBOP7YSvTX4wfFpBCw=="/>
+        </item>
+        <item>
             <title>2.10.10</title>
             <pubDate>Sat, 23 May 2026 18:59:37 +0900</pubDate>
             <sparkle:version>465</sparkle:version>
@@ -22,15 +31,6 @@
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v2.10.9.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.9/Transcrybe.v2.10.9.zip" length="609613735" type="application/octet-stream" sparkle:edSignature="kjqj8vMLtaAm8LIcI+HglllG4t+KlOm2RYwz8IMYe2e+HcZeG8ez6sgMbbDknHTeTxRyYq/l6m9NAN+5RB0qAQ=="/>
-        </item>
-        <item>
-            <title>2.10.8</title>
-            <pubDate>Fri, 15 May 2026 13:21:38 +0900</pubDate>
-            <sparkle:version>460</sparkle:version>
-            <sparkle:shortVersionString>2.10.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v2.10.8.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.8/Transcrybe.v2.10.8.zip" length="609605866" type="application/octet-stream" sparkle:edSignature="6zLH65gcPF/jBq2zBMclrsvxyR3CJayIk5GmFoM9wt+Y0l6aq/MXjsSDfeIn3xp1IWVs/wFS/cK/KfRwdDTLCQ=="/>
         </item>
     </channel>
 </rss>
