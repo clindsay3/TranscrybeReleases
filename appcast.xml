@@ -7,12 +7,12 @@
         <language>en</language>
         <item>
             <title>3.0</title>
-            <pubDate>Wed, 10 Jun 2026 21:49:54 +0900</pubDate>
-            <sparkle:version>471</sparkle:version>
+            <pubDate>Mon, 15 Jun 2026 19:29:37 +0900</pubDate>
+            <sparkle:version>472</sparkle:version>
             <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v3.0.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-3.0/Transcrybe.v3.0.zip" length="623381579" type="application/octet-stream" sparkle:edSignature="2vkmsG6xGBnGjqL0XDKCsN24SK1v5ZlGNfMrYcPONscIYo6c/n5DodxlCcuTblf9h30GEPR5C+34lcRDmYL5Ag=="/>
+            <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-3.0/Transcrybe.v3.0.zip" length="623535100" type="application/octet-stream" sparkle:edSignature="Hcfj6+gsG5QFJ6QcrkVCWnJa7Psc2FoHDXWqr46yOuRTCIptNs/a2ewmss9fHdANTXvnYlNqzvUSVuekdpxnAQ=="/>
         </item>
         <item>
             <title>2.10.11</title>
