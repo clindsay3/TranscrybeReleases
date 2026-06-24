@@ -11,6 +11,7 @@
             <sparkle:version>489</sparkle:version>
             <sparkle:shortVersionString>2.10.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
             <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v2.10.12.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.12/Transcrybe.v2.10.12.zip" length="609615743" type="application/octet-stream" sparkle:edSignature="oDmniCceNZWmntxPAGuv6ToDMlv/NTojSuML0WXpuGEYno/2So0Mp5sZi8KTcRItfDm17AHmrr9nxOccJBIkDg=="/>
         </item>
