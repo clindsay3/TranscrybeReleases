@@ -1,10 +1,20 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version='1.0' standalone='yes'?>
+<rss xmlns:sparkle='http://www.andymatuschak.org/xml-namespaces/sparkle' version='2.0'>
     <channel>
         <title>Transcrybe</title>
         <link>https://clindsay3.github.io/TranscrybeReleases/</link>
         <description>Non-App-Store updates for Transcrybe.</description>
         <language>en</language>
+        <item>
+            <title>3.0</title>
+            <pubDate>Wed, 24 Jun 2026 15:19:42 +0900</pubDate>
+            <sparkle:version>492</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v3.0.html</sparkle:releaseNotesLink>
+            <enclosure url='https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-3.0/Transcrybe.v3.0.zip' length='624941338' type='application/octet-stream' sparkle:edSignature='KSFXrAIQrZSrlt4P54rmgIkysrPUj3M08KB/LNK5dSM8ATUStsGT8ub7iObhiZoZqdxcys11a3MFMmkgaxoaCQ=='/>
+            <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
+        </item>
         <item>
             <title>2.10.12</title>
             <pubDate>Tue, 23 Jun 2026 17:59:18 +0900</pubDate>
@@ -13,7 +23,7 @@
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
             <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v2.10.12.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.12/Transcrybe.v2.10.12.zip" length="609615743" type="application/octet-stream" sparkle:edSignature="oDmniCceNZWmntxPAGuv6ToDMlv/NTojSuML0WXpuGEYno/2So0Mp5sZi8KTcRItfDm17AHmrr9nxOccJBIkDg=="/>
+            <enclosure url='https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.12/Transcrybe.v2.10.12.zip' length='609615743' type='application/octet-stream' sparkle:edSignature='oDmniCceNZWmntxPAGuv6ToDMlv/NTojSuML0WXpuGEYno/2So0Mp5sZi8KTcRItfDm17AHmrr9nxOccJBIkDg=='/>
         </item>
         <item>
             <title>2.10.11</title>
@@ -22,7 +32,7 @@
             <sparkle:shortVersionString>2.10.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v2.10.11.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.11/Transcrybe.v2.10.11.zip" length="609609041" type="application/octet-stream" sparkle:edSignature="pABH3h1VMAmlZOKCzoCO3lJkiSefJNi9bg2j5Fjstg7Bq1+sxL2qVieK2pOzr/s+FGe/p5VuPr9HFIoBbPz4Bw=="/>
+            <enclosure url='https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-2.10.11/Transcrybe.v2.10.11.zip' length='609609041' type='application/octet-stream' sparkle:edSignature='pABH3h1VMAmlZOKCzoCO3lJkiSefJNi9bg2j5Fjstg7Bq1+sxL2qVieK2pOzr/s+FGe/p5VuPr9HFIoBbPz4Bw=='/>
         </item>
     </channel>
 </rss>
