@@ -7,12 +7,12 @@
         <language>en</language>
         <item>
             <title>3.0.1</title>
-            <pubDate>Wed, 01 Jul 2026 08:12:45 +0900</pubDate>
-            <sparkle:version>494</sparkle:version>
+            <pubDate>Wed, 01 Jul 2026 10:34:49 +0900</pubDate>
+            <sparkle:version>495</sparkle:version>
             <sparkle:shortVersionString>3.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v3.0.1.html</sparkle:releaseNotesLink>
-            <enclosure url='https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-3.0.1/Transcrybe.v3.0.1.zip' length='624951290' type='application/octet-stream' sparkle:edSignature='0kEtRjpFAw8jcEpUzkhK+0W/t6TNv3e4tdj7FE1ZWqWaota7o4qumjkheNO2dEgxDbd9uDaZNUL/5AeWDAibAA=='/>
+            <enclosure url='https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-3.0.1/Transcrybe.v3.0.1.zip' length='624950945' type='application/octet-stream' sparkle:edSignature='4RVWtzsOPbxCgWYuHXL1Er8xy66/rSgD8nngS0cTT2nT0RrliQQDiO8afcFF5FxS6mDkLBSXybXlus2XcrwlBg=='/>
             <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
         </item>
         <item>
