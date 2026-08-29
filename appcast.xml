@@ -6,6 +6,16 @@
         <description>Non-App-Store updates for Transcrybe.</description>
         <language>en</language>
         <item>
+            <title>3.1.2</title>
+            <pubDate>Sat, 29 Aug 2026 19:29:54 +0900</pubDate>
+            <sparkle:version>508</sparkle:version>
+            <sparkle:shortVersionString>3.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v3.1.2.html</sparkle:releaseNotesLink>
+            <enclosure url='https://github.com/clindsay3/TranscrybeReleases/releases/download/direct-download-3.1.2/Transcrybe.v3.1.2.zip' length='626341539' type='application/octet-stream' sparkle:edSignature='rvyWsxH+6D+xNqnFmnck2WFEXbCSepibWDdDtQTPnO+AkpSjkqs3QpUvvsFGgWcj4l0t9ePTX2VrSH3dI0FFDA=='/>
+            <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
+        </item>
+        <item>
             <title>3.1.1</title>
             <pubDate>Thu, 20 Aug 2026 11:05:26 +0900</pubDate>
             <sparkle:version>506</sparkle:version>
@@ -24,15 +34,6 @@
             <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v3.1.html</sparkle:releaseNotesLink>
             <enclosure url='https://github.com/clindsay3/TranscrybeReleases/releases/download/direct-download-3.1/Transcrybe.v3.1.zip' length='626299649' type='application/octet-stream' sparkle:edSignature='LUUzmZIU/haA6hhgyGUadDO0Jm1HD3FTV7NhcBQUENMICUTcFLF75EXPCvhQw+RV6aGL/Ncmzjmt6o+JTSYGCQ=='/>
             <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
-        </item>
-        <item>
-            <title>3.0.4</title>
-            <pubDate>Tue, 07 Jul 2026 20:50:40 +0900</pubDate>
-            <sparkle:version>500</sparkle:version>
-            <sparkle:shortVersionString>3.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://clindsay3.github.io/TranscrybeReleases/Transcrybe.v3.0.4.html</sparkle:releaseNotesLink>
-            <enclosure url='https://github.com/clindsay3/TranscrybeReleases/releases/download/non-app-store-3.0.4/Transcrybe.v3.0.4.zip' length='624972738' type='application/octet-stream' sparkle:edSignature='gwkBRaXU3PCtrW1S5/Tp1tcuA9sGwqgxADTutp9Kwwhzf5Nsp3uWyN+iZxRcW4wQ9nPH5xIyOwDiofHmlCLkDQ=='/>
         </item>
     </channel>
 </rss>
